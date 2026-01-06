@@ -34,8 +34,25 @@ The goal of this project is to explore **AI integration**, **API-driven recommen
 - TMDB API (movie data)
 
 ---
+### 🐳 Dockerized Backend (DevOps Addition)
 
-## 🚀 How to Run Locally
+The backend of this application has been containerized using Docker to ensure consistent runtime behavior across environments and simplify deployment.
+
+This setup packages the backend code and dependencies into a container, making the application easier to run and deploy without environment-specific issues.
+
+### Run Backend Using Docker
+
+**Build the Docker image**
+
+docker build -t popchoice-backend .
+
+**Run the Docker container**
+
+docker run -p 3001:3001 popchoice-backend
+
+---
+
+## 🚀 How to Run Locally(Without Docker)
 
 ### 1️⃣ Clone the repository
 
