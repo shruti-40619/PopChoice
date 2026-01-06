@@ -1,8 +1,8 @@
 # 🎬 PopChoice — AI Movie Recommendation App
 
-PopChoice is a full-stack web application that recommends movies based on a user’s **current mood** using **AI-powered genre analysis** and real-time movie data.
+PopChoice is a full-stack web application that recommends movies based on a user’s current mood using AI-powered genre analysis and real-time movie data.
 
-The goal of this project is to explore **AI integration**, **API-driven recommendations**, and a **clean full-stack workflow**.
+The goal of this project is to explore AI integration, API-driven recommendations, and a clean full-stack development workflow, with added focus on backend containerization using Docker.
 
 ---
 
@@ -94,6 +94,8 @@ This project was built to:
 Understand AI-assisted recommendations
 
 Learn real-world API integration
+
+Explore backend deployment concepts using Docker
 
 Practice full-stack development workflow
 
